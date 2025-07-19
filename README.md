@@ -15,9 +15,7 @@ Bộ dữ liệu của Dứa Data gồm **4 file** với cấu trúc như sau:
         - 4: Số lượng sản phẩm 4
     - **Số lượng bán hàng** (theo từng sản phẩm).
   
-**📌 Mục tiêu**
-
-- Phân tích hành vi mua hàng của khách hàng thông qua dữ liệu giao dịch lớn (hơn 2 triệu dòng), nhằm đưa ra insight về:
+**📌 Mục tiêu**: Phân tích hành vi mua hàng của khách hàng thông qua dữ liệu giao dịch lớn (hơn 2 triệu dòng), nhằm đưa ra insight về:
 - Mức độ phổ biến & hiệu quả từng sản phẩm
 - Thói quen mua hàng (đơn nhỏ, mua kèm,…)
 - Cặp sản phẩm thường đi cùng nhau
@@ -26,12 +24,12 @@ Bộ dữ liệu của Dứa Data gồm **4 file** với cấu trúc như sau:
 **🔧 Quy trình xử lý**
 
 1. Làm sạch & nối dữ liệu bằng SQL:
--- Gộp 3 file đầu và chuẩn hóa về dạng long giống file4
--- Nối dữ liệu vào bảng duy nhất `TongHop1`
--- Tạo bảng tần suất `MuaChung` để phân tích sản phẩm mua cùng
+- Gộp 3 file đầu và chuẩn hóa về dạng long giống file4
+- Nối dữ liệu vào bảng duy nhất `TongHop1`
+- Tạo bảng tần suất `MuaChung` để phân tích sản phẩm mua cùng
 2. Import vào Power BI
-Dùng Import qua Server và Database để kết nối bảng SQL
-Trực quan hóa với biểu đồ cột, donut, combo, matrix,...
+- Dùng Import qua Server và Database để kết nối bảng SQL
+- Trực quan hóa với biểu đồ cột, donut, combo, matrix,...
 <img width="1338" height="758" alt="image" src="https://github.com/user-attachments/assets/1ca2cd47-aafc-46fe-91e3-d68968491bbe" />
 
 **📊 Những insight nổi bật**
