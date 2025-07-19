@@ -1,4 +1,4 @@
-<img width="1338" height="758" alt="image" src="https://github.com/user-attachments/assets/4377d884-a6b3-43e8-9bb9-31de75654661" />Bài Tập Phân Tích Dữ Liệu Lớn – Chinh Phục Dữ Liệu Triệu Dòng! 🚀
+Bài Tập Phân Tích Dữ Liệu Lớn – Chinh Phục Dữ Liệu Triệu Dòng! 🚀
 ### **Thông Tin Bộ Dữ Liệu**
 Bộ dữ liệu của Dứa Data gồm **4 file** với cấu trúc như sau:
 - **File 1, File 2, File 3** có cấu trúc giống nhau gồm:
