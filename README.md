@@ -32,7 +32,7 @@ Bộ dữ liệu của Dứa Data gồm **4 file** với cấu trúc như sau:
 - Trực quan hóa với biểu đồ cột, donut, combo, matrix,...
 <img width="1338" height="758" alt="image" src="https://github.com/user-attachments/assets/1ca2cd47-aafc-46fe-91e3-d68968491bbe" />
 
-Link Dashboard: https://drive.google.com/file/d/1ANxh6JZ92PzbhcvAX7ua-nk_WQ-u6Nvc/view?usp=sharing 
+Link Dashboard: https://drive.google.com/file/d/1XwqGkqP_6AHc9WRpOjfv0h3YDHblRnl8/view?usp=sharing
 
 **📊 Những insight nổi bật**
 
